@@ -17,7 +17,6 @@ Description: In this article, we walk through an end--to--end Affymetrix microar
 Depends: R (>= 3.5.0),
     DelayedArray,
     GO.db
-    
 License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
